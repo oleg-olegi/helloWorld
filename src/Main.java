@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");//first project with skypro
-    }
+        System.out.println("Привет, мир!");//first project with skypro
+    }// не получается отправить в удаленный реозиторий
 }
